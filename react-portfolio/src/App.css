@@ -1,0 +1,9 @@
+body {
+  font-family: "Merriweather", serif;
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/textured_stripes.png");
+}
+footer {
+  text-align: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Merriweather")
