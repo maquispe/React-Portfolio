@@ -8,9 +8,9 @@ const Card = () => {
       <div className="card-body">
         <p className="card-text">Full-Stack Web Developer</p>
         <p className="card-text">UC Berkeley Extension</p>
-        <a href="https://www.linkedin.com/in/manuel-quispe-5979a89a/" className="card-link">LinkedIn Profile</a>
+        <a href="https://www.linkedin.com/in/manuel-quispe-5979a89a/" target="_blank" className="card-link">LinkedIn Profile</a>
         <br />
-        <a href="https://github.com/maquispe" className="card-link">Github Profile</a>
+        <a href="https://github.com/maquispe" target="_blank" className="card-link">Github Profile</a>
       </div>
       
       <div className="card-body">
